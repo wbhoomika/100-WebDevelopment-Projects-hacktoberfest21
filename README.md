@@ -3,6 +3,7 @@
 I'll be adding links to 100+ JS based projects that will help you understand all the concepts of Web Development. These projects will be mixture of free and paid content over the internet.  
 
 <ol>
+  <li> Animated eyes following mouse cursor</li>
   <li> </li>
   <li> To be continued. </li>
 </ol>    
