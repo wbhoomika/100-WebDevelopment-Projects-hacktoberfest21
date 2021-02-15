@@ -1,4 +1,4 @@
-# 100 JavaScript Pojects
+# 100 Web Development Pojects
 
 I'll be adding links to 100+ JS based projects that will help you understand all the concepts of Web Development. These projects will be mixture of free and paid content over the internet.  
 
