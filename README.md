@@ -13,10 +13,15 @@ Bhoomika Wavhal
 
 
 <ol>
-  <li> Animated eyes following mouse cursor </li>
+  <li>Animated eyes following mouse cursor</li>
     <ul>
     <li>Live Site: https://tinyurl.com/100web-projects-by-bhoomika-s1</li>
     <li>Repository: https://tinyurl.com/100web-projects-by-bhoomika-p1 </li>
+    </ul>
+  <li>Expanding Cards</li>
+    <ul>
+    <li>Live Site: https://tinyurl.com/100web-projects-by-bhoomika-s2</li>
+    <li>Repository: https://tinyurl.com/100web-projects-by-bhoomika-p2 </li>
     </ul>
   .
   </br>
