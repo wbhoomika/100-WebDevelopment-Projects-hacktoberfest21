@@ -27,5 +27,5 @@ Bhoomika Wavhal
   </br>
   .
   </br>
-  Too be continued.
+  To be continued.
 </ol>
